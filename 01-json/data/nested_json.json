@@ -1,0 +1,44 @@
+[
+ {
+	"title":"math for dummies",
+	"author": "charles chaplin",
+	"key_words": [
+		{
+			"id": 1,
+			"word_1": "algebra"
+		},
+		{
+			"id": 2,
+			"word_1": "geometry"
+		}
+	]
+ },
+ {
+	 "title":"bitcoin bible",
+	 "author": "margaret tacher",
+	 "key_words": [
+		 {
+			 "id": 1,
+			 "word_1": "coin"
+		 },
+		 {
+			 "id": 2,
+			 "word_1": "crypto_currency"
+		 }
+	 ]
+ }, 
+ {
+	 "title":"data science 101",
+	 "author": "bill gates",
+	 "key_words": [
+		 {
+			 "id": 1,
+			 "word_1": "machine_learning"
+		 },
+		 {
+			 "id": 2,
+			 "word_1": "data_wrangling"
+		 }
+	 ]
+ } 
+]
