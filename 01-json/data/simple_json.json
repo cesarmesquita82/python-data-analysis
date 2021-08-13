@@ -1,14 +1,32 @@
 [
  {
-	"title":"math for dummies",
-	"author": "charles chaplin"
+   "id": 1,
+   "titulo": "Algebra Linear",
+   "Autor":  "Paulo Winterle"
  },
  {
-	 "title":"bitcoin bible",
-	 "author": "margaret tacher"
- }, 
+   "id": 2,
+   "titulo": "Geometria Analitica",
+   "Autor": "John Fraleigh"
+ },
  {
-	 "title":"data science 101",
-	 "author": "bill gates"
- } 
+   "id": 3,
+   "titulo": "O tempo e o Vento",
+   "Autor":  "Erico Verrismo"
+ },
+ {
+   "id": 4,
+   "titulo": "Memorias Postumas de Bras Cubas",
+   "Autor": "Machado de Assis"
+ },
+ {
+   "id": 5,
+   "titulo": "História do Brasil",
+   "Autor":  "Boris Fausto"
+ },
+ {
+   "id": 6,
+   "titulo": "A Real Historia do Real",
+   "Autor": "Maria Prado"
+ }
 ]

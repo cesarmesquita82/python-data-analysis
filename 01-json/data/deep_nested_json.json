@@ -2,6 +2,11 @@
  {
 	"Biblioteca": "Central",
 	"Tipo": "Exatas",
+	"Info": {
+		"endereco": "centro histórico",
+		"cidade": "porto alegre",
+		"acessibilidade": "sim"
+	},
 	"Livros": [
 		{
 			"id": 1,
@@ -18,6 +23,11 @@
  {
 	"Biblioteca": "Norte",
 	"Tipo": "Literatura Brasileira",
+	"Info": {
+		"endereco": "cidade baixa",
+		"cidade": "porto alegre",
+		"acessibilidade": "nao"
+	},
 	"Livros": [
 		{
 			"id": 1,
@@ -34,6 +44,11 @@
  {
 	"Biblioteca": "Sul",
 	"Tipo": "História",
+	"Info": {
+		"endereco": "santana",
+		"cidade": "alvorada",
+		"acessibilidade":"sim"
+	},
 	"Livros": [
 		{
 			"id": 1,
